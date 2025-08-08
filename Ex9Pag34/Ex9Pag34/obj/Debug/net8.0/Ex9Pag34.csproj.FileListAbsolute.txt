@@ -1,0 +1,14 @@
+H:\Poo\1Etapa\Ex9Pag34\Ex9Pag34\bin\Debug\net8.0\Ex9Pag34.exe
+H:\Poo\1Etapa\Ex9Pag34\Ex9Pag34\bin\Debug\net8.0\Ex9Pag34.deps.json
+H:\Poo\1Etapa\Ex9Pag34\Ex9Pag34\bin\Debug\net8.0\Ex9Pag34.runtimeconfig.json
+H:\Poo\1Etapa\Ex9Pag34\Ex9Pag34\bin\Debug\net8.0\Ex9Pag34.dll
+H:\Poo\1Etapa\Ex9Pag34\Ex9Pag34\bin\Debug\net8.0\Ex9Pag34.pdb
+H:\Poo\1Etapa\Ex9Pag34\Ex9Pag34\obj\Debug\net8.0\Ex9Pag34.GeneratedMSBuildEditorConfig.editorconfig
+H:\Poo\1Etapa\Ex9Pag34\Ex9Pag34\obj\Debug\net8.0\Ex9Pag34.AssemblyInfoInputs.cache
+H:\Poo\1Etapa\Ex9Pag34\Ex9Pag34\obj\Debug\net8.0\Ex9Pag34.AssemblyInfo.cs
+H:\Poo\1Etapa\Ex9Pag34\Ex9Pag34\obj\Debug\net8.0\Ex9Pag34.csproj.CoreCompileInputs.cache
+H:\Poo\1Etapa\Ex9Pag34\Ex9Pag34\obj\Debug\net8.0\Ex9Pag34.dll
+H:\Poo\1Etapa\Ex9Pag34\Ex9Pag34\obj\Debug\net8.0\refint\Ex9Pag34.dll
+H:\Poo\1Etapa\Ex9Pag34\Ex9Pag34\obj\Debug\net8.0\Ex9Pag34.pdb
+H:\Poo\1Etapa\Ex9Pag34\Ex9Pag34\obj\Debug\net8.0\Ex9Pag34.genruntimeconfig.cache
+H:\Poo\1Etapa\Ex9Pag34\Ex9Pag34\obj\Debug\net8.0\ref\Ex9Pag34.dll
