@@ -1,0 +1,16 @@
+H:\Poo\1Etapa\MinhaCalculadora\MinhaCalculadora\bin\Debug\net8.0-windows\MinhaCalculadora.exe
+H:\Poo\1Etapa\MinhaCalculadora\MinhaCalculadora\bin\Debug\net8.0-windows\MinhaCalculadora.deps.json
+H:\Poo\1Etapa\MinhaCalculadora\MinhaCalculadora\bin\Debug\net8.0-windows\MinhaCalculadora.runtimeconfig.json
+H:\Poo\1Etapa\MinhaCalculadora\MinhaCalculadora\bin\Debug\net8.0-windows\MinhaCalculadora.dll
+H:\Poo\1Etapa\MinhaCalculadora\MinhaCalculadora\bin\Debug\net8.0-windows\MinhaCalculadora.pdb
+H:\Poo\1Etapa\MinhaCalculadora\MinhaCalculadora\obj\Debug\net8.0-windows\MinhaCalculadora.Form1.resources
+H:\Poo\1Etapa\MinhaCalculadora\MinhaCalculadora\obj\Debug\net8.0-windows\MinhaCalculadora.csproj.GenerateResource.cache
+H:\Poo\1Etapa\MinhaCalculadora\MinhaCalculadora\obj\Debug\net8.0-windows\MinhaCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+H:\Poo\1Etapa\MinhaCalculadora\MinhaCalculadora\obj\Debug\net8.0-windows\MinhaCalculadora.AssemblyInfoInputs.cache
+H:\Poo\1Etapa\MinhaCalculadora\MinhaCalculadora\obj\Debug\net8.0-windows\MinhaCalculadora.AssemblyInfo.cs
+H:\Poo\1Etapa\MinhaCalculadora\MinhaCalculadora\obj\Debug\net8.0-windows\MinhaCalculadora.csproj.CoreCompileInputs.cache
+H:\Poo\1Etapa\MinhaCalculadora\MinhaCalculadora\obj\Debug\net8.0-windows\MinhaCalculadora.dll
+H:\Poo\1Etapa\MinhaCalculadora\MinhaCalculadora\obj\Debug\net8.0-windows\refint\MinhaCalculadora.dll
+H:\Poo\1Etapa\MinhaCalculadora\MinhaCalculadora\obj\Debug\net8.0-windows\MinhaCalculadora.pdb
+H:\Poo\1Etapa\MinhaCalculadora\MinhaCalculadora\obj\Debug\net8.0-windows\MinhaCalculadora.genruntimeconfig.cache
+H:\Poo\1Etapa\MinhaCalculadora\MinhaCalculadora\obj\Debug\net8.0-windows\ref\MinhaCalculadora.dll
